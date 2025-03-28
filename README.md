@@ -1,4 +1,4 @@
-# Loading Animation | code_wars_official
+# Loading Animation 
 
 This project showcases a smooth SVG-based loading animation using HTML and CSS. It features three animated shapes: a circle, a triangle, and a square, each following unique motion paths to create a visually appealing effect. The animations are powered by CSS keyframes, making them lightweight and efficient.
 
